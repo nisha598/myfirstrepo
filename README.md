@@ -1,3 +1,3 @@
 # myfirstrepo
 this is my first github repository <br>
-Author - Nisha
+Author -  Nisha (student)
